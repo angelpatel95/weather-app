@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+#header{
+    color: rgb(31, 70, 5);
+    font-size: 40px;
+    border-style: solid;
+    
+}
+
+h3 {
+    color: rgb(42, 128, 28);
+    border-style: dashed;
+    font-size: 25px;
+
+}
+
+section {
+    color: rgb(0, 193, 0);
+    border-style: solid;
+    font-size: 20px;
+}
